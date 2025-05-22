@@ -1,0 +1,23 @@
+.profile {
+    width: 450px;
+    padding: 110px;
+    border: 10px solid #000000;
+    border-radius: 5px;
+    background-image: url("./Profile.jfif");
+}
+
+.project1 {
+    width: 450px;
+    padding: 110px;
+    border: 10px solid #000000;
+    border-radius: 5px;
+    background-image: url("./Project1.jpg");
+}
+
+.project2 {
+    width: 450px;
+    padding: 110px;
+    border: 10px solid #000000;
+    border-radius: 5px;
+    background-image: url("./Project2.jpg");
+}
